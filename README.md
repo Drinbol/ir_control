@@ -1,4 +1,4 @@
-# Alternative Infrared Remote for Flipperzero
+# Alternative Infrared Remote for Flipperzero By Drinbol
 
 It is a plugin like [UniversalRF Remix](https://github.com/ESurge/flipperzero-firmware-unirfremix) but for infrared files. I do this plugin for convenience, because the main IR app need to navigate for different button abit troublesome (buttons like up,down,left,right,back). I found it useful for TV and TV box.
 
